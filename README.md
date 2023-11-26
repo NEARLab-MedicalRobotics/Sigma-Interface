@@ -26,3 +26,7 @@ lock_orientation parameter as true.
 foot pedal is released.
 * wrench_topic String defining the topic name for the wrench message to which
  this node subscribes
+
+### Copyright
+This code is released under the BSD-3 License. A license file is included in the code
+Credit to Nima Enayati and Politecnico di Milano
